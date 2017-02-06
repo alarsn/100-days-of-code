@@ -3,13 +3,14 @@
 ### Day 0: February 6, 2017 
 ##### (delete me or comment me out)
 
-**Today's Progress**: 
+**Today's Progress**:
 Good start. Laid out a bunch of projects and using FCC to learn new web design languages
 
 **Thoughts:**
 Feels pretty good to have a game plan laid out so I can complete the 100 days of code. Still need to learn how to use github instead of going to the site and changing directly on the site.
 
-**Link to work:** 
+**Link to work:**
+
 Project list(http://codepen.io/alarson/full/WRKwGr/)
 
 twitter(https://twitter.com/alarson/status/828693995685572608)
