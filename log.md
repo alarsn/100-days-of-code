@@ -34,6 +34,7 @@ I think this was a very productive day. I think that I may have a handle on boot
 **Link(s) to work**
 
 Resume - http://codepen.io/alarson/full/xgjGqB/
+
 FCC Tribute page - http://codepen.io/alarson/full/XpBvrv/
 
 ---------------------------------------------------------
