@@ -22,12 +22,17 @@ twitter(https://twitter.com/alarson/status/828693995685572608)
 **Today's Progress**: 
 
 started day working on resume layout.
+2nd attempt at Free code camp trubute page
+replied to and read discussions on free code camp forum
 
 **Thoughts** 
+
+I think this was a very productive day. I think that I may have a handle on bootstrap layout. I still do not feel as comfortable with it as I do HTML and CSS. I defintately know where I was missing steps beofre and plan on revisiting resume again to update with bootstrap.
 
 **Link(s) to work**
 
 Resume - http://codepen.io/alarson/full/xgjGqB/
+FCC Tribute page - http://codepen.io/alarson/full/XpBvrv/
 
 ---------------------------------------------------------
 
