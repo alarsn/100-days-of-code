@@ -16,26 +16,30 @@ Project list(http://codepen.io/alarson/full/WRKwGr/)
 twitter(https://twitter.com/alarson/status/828693995685572608)
 
 ---------------------------------------------------------
-http://codepen.io/alarson/full/xgjGqB/
+
 ### Day 1: 
 
 **Today's Progress**: 
 
+started day working on resume layout.
+
 **Thoughts** 
 
 **Link(s) to work**
+
+Resume - http://codepen.io/alarson/full/xgjGqB/
 
 ---------------------------------------------------------
 
 ### Day 2: 
 
 **Today's Progress**: 
-started day working on resume layout.
+
 
 **Thoughts** 
 
 **Link(s) to work**
-Resume - http://codepen.io/alarson/full/xgjGqB/
+
 
 ---------------------------------------------------------
 
