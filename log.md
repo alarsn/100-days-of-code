@@ -22,7 +22,9 @@ twitter(https://twitter.com/alarson/status/828693995685572608)
 **Today's Progress**: 
 
 started day working on resume layout.
+
 2nd attempt at Free code camp trubute page
+
 replied to and read discussions on free code camp forum
 
 **Thoughts** 
