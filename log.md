@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 6, 2017 
-##### (delete me or comment me out)
+#####
 
 **Today's Progress**:
 Good start. Laid out a bunch of projects and using FCC to learn new web design languages
@@ -17,7 +17,7 @@ twitter(https://twitter.com/alarson/status/828693995685572608)
 
 ---------------------------------------------------------
 
-### Day 1: 
+### Day 1: February 7, 2017 
 
 **Today's Progress**: 
 
