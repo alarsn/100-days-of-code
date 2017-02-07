@@ -16,8 +16,100 @@ Project list(http://codepen.io/alarson/full/WRKwGr/)
 twitter(https://twitter.com/alarson/status/828693995685572608)
 
 ---------------------------------------------------------
-
+http://codepen.io/alarson/full/xgjGqB/
 ### Day 1: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 2: 
+
+**Today's Progress**: 
+started day working on resume layout.
+
+**Thoughts** 
+
+**Link(s) to work**
+Resume - http://codepen.io/alarson/full/xgjGqB/
+
+---------------------------------------------------------
+
+### Day 3: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 4: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 5: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 6: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 7: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 8: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 9: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 10: 
 
 **Today's Progress**: 
 
