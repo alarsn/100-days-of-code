@@ -43,6 +43,18 @@ FCC Tribute page - http://codepen.io/alarson/full/XpBvrv/
 
 **Today's Progress**: 
 
+Plan for today
+
+1. continue layout for tribute page
+
+2. update resume with my information/picture
+
+3. sketch out layout for portfolio
+
+4. start basic code for portfolio
+
+4. work on FCC javascript segments
+
 
 **Thoughts** 
 
