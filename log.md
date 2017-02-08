@@ -39,11 +39,11 @@ FCC Tribute page - http://codepen.io/alarson/full/XpBvrv/
 
 ---------------------------------------------------------
 
-### Day 2: 
+### Day 2: February 8, 2017
 
 **Today's Progress**: 
 
-Plan for today
+Plan for today:
 
 1. continue layout for tribute page
 
