@@ -53,23 +53,29 @@ Plan for today:
 
 4. start basic code for portfolio
 
-4. work on FCC javascript segments
+5. work on FCC javascript segments
 
 
 **Thoughts** 
+
+Did not get to start until late in the evening so was only to work for an hour, however I did get it in. I meet 3 of the 5 goals above. I was able to sketch layout for portfolio, do a basic layout based on draft for portfolio using bootstrap and continued updating information and layout for tribute page. I also did some reading of the Bootstrap documentation and it is starting make a little more sense to me.
 
 **Link(s) to work**
 
 
 ---------------------------------------------------------
 
-### Day 3: 
+### Day 3: Febuary 9, 2017
 
 **Today's Progress**: 
 
+
 **Thoughts** 
 
+Was able to get almost 2 hours in today again using bootstrap. Read some moe Bootstrap documentation to help with the layout of my FCC portfoli. I am having a pretty rough time being able to use a photo from a local file as my background, but I will get it figured out. Overall, I like how things are coming along.
+
 **Link(s) to work**
+https://github.com/alarsn/FCC_projects/tree/master/portfolio
 
 ---------------------------------------------------------
 
