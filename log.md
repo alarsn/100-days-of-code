@@ -79,23 +79,31 @@ https://github.com/alarsn/FCC_projects/tree/master/portfolio
 
 ---------------------------------------------------------
 
-### Day 4: 
+### Day 4: Febuary 10, 2017
 
 **Today's Progress**: 
 
 **Thoughts** 
+
+I was able to almost complete my tribute page project for FCC. 
 
 **Link(s) to work**
 
 ---------------------------------------------------------
 
-### Day 5: 
+### Day 5: Febuary 11, 2017
 
 **Today's Progress**: 
 
 **Thoughts** 
 
+Completed and put up my tribute page project for FCC. Visit the forum link to leave me your feedback.
+
 **Link(s) to work**
+
+https://forum.freecodecamp.com/c/project-feedback
+
+https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
