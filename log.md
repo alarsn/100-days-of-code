@@ -107,7 +107,82 @@ https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
-### Day 6: 
+### Day 6: Febuary 12, 2017
+
+**Today's Progress**: 
+
+Started working on learning the command line and git via the command line
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 7: Febuary 13, 2017
+
+**Today's Progress**: 
+
+continued working on learning the command line and git via the command line
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 8: Febuary 14, 2017
+
+**Today's Progress**: 
+
+continued working on learning the command line and git via the command line
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 9: Febuary 15, 2017
+
+**Today's Progress**: 
+
+continued working on learning the command line and git via the command line
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 10: Febuary 16, 2017
+
+**Today's Progress**: 
+
+continued working on learning the command line and git via the command .
+
+**Thoughts** 
+
+ I think I have good understanding of the command line, but still struggle with git at the moment.
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 11: Febuary 17, 2017
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+My undestanding of the command line has improved vastly since I started using it on a daily basis. I forget to cd into my git file when I am practicing working on git and it messes me up. But once I figure out where I am going wrong I can get quickly back on track.  am working on a project to make my own start page for my browser with all my families favorite links on it. I needed a break from doing my portfolio for FCC. I have also gotten my certificate on Sololearn for HTML, and am about 75% through CSS. 
+
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 12: 
 
 **Today's Progress**: 
 
@@ -117,7 +192,7 @@ https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
-### Day 7: 
+### Day 13: 
 
 **Today's Progress**: 
 
@@ -127,7 +202,7 @@ https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
-### Day 8: 
+### Day 14: 
 
 **Today's Progress**: 
 
@@ -137,7 +212,7 @@ https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
-### Day 9: 
+### Day 15: 
 
 **Today's Progress**: 
 
@@ -147,7 +222,47 @@ https://alarsn.github.io/fcc-tribute/
 
 ---------------------------------------------------------
 
-### Day 10: 
+### Day 16: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 17: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 18: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 19: 
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+---------------------------------------------------------
+
+### Day 20: 
 
 **Today's Progress**: 
 
